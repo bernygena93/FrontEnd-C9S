@@ -15,7 +15,7 @@ main{
     position: absolute;
     width: 746px;
     height: 556px;
-    left: 350px;
+    left: 300px;
     top: 300px;
     background: #F3F3F3;
     border-radius: 45px;
@@ -23,7 +23,7 @@ main{
 .imgFrontStyle{
     position: absolute;
     top: 175px;
-    left: 620px;
+    left: 570px;
     background-size: cover;
     z-index: 100;
     border: solid 1px var(--Third-color);
@@ -57,7 +57,7 @@ h3{
     position: absolute;
     width: 746px;
     height: 120px;
-    left: 350px;
+    left: 300px;
     top: 750px;
     color: white;
     background-color: #2C0187;
