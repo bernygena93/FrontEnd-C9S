@@ -1,0 +1,27 @@
+:root{
+    --buttonReset-color: #888888;
+}
+
+/*----------------------MAIN-------------------*/
+/*-----------------------------------------------*/
+
+.buttonForm{
+    display: inline;
+}
+.reset{
+    border: 1px solid var(--buttonReset-color);
+    border-radius: 23px;
+    background-color: var(--buttonReset-color);
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+}
+.submit,.reset{
+    width: 45%;
+}
+textarea{
+    width: 90%;
+    height: 200px;
+    margin-top: 10px;
+}
